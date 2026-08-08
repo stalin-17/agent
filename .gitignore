@@ -14,5 +14,5 @@ __pycache__/
 *.sqlite
 *.json
 
-.serena
-.lance
+.serena/
+*.lance/
